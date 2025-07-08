@@ -1,13 +1,12 @@
 # 📊 Dashboard de People Analytics - Power BI
 
-![Dashboard Preview](./images/dashboard_preview.png)
+![Dashboard Preview](https://github.com/tamhiull/IndicadoresRH/blob/main/Dash.PNG)
 
 ## 📌 Visão Geral
 Dashboard interativo para análise estratégica de RH, desenvolvido em Power BI, que monitora:
 
-- **Indicadores-chave**: Turnover, headcount, absenteísmo
-- **Diversidade**: Gênero, tempo de empresa, distribuição geográfica
-- **Custos**: Impacto financeiro da rotatividade
+- **Indicadores-chave**: Turnover, Colabora Ativos e Motivos de Desligamento nos últimos 12 meses.
+- **Diversidade**: Gênero e Distribuição geográfica
 
 ## 🔍 Principais Insights
 - Taxa de turnover anual: 25%
